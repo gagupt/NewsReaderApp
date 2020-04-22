@@ -1,11 +1,11 @@
 {
-  "main.js": "/NewsReaderApp/static/js/main.94c8c969.chunk.js",
-  "main.js.map": "/NewsReaderApp/static/js/main.94c8c969.chunk.js.map",
+  "main.js": "/NewsReaderApp/static/js/main.e02f1180.chunk.js",
+  "main.js.map": "/NewsReaderApp/static/js/main.e02f1180.chunk.js.map",
   "static/js/1.b57ae6c4.chunk.js": "/NewsReaderApp/static/js/1.b57ae6c4.chunk.js",
   "static/js/1.b57ae6c4.chunk.js.map": "/NewsReaderApp/static/js/1.b57ae6c4.chunk.js.map",
   "runtime~main.js": "/NewsReaderApp/static/js/runtime~main.cee1c5ef.js",
   "runtime~main.js.map": "/NewsReaderApp/static/js/runtime~main.cee1c5ef.js.map",
   "index.html": "/NewsReaderApp/index.html",
-  "precache-manifest.9411b81cbe6c8ef085316980f5817aae.js": "/NewsReaderApp/precache-manifest.9411b81cbe6c8ef085316980f5817aae.js",
+  "precache-manifest.1fda294d429ba076e57f4d5c42c458c4.js": "/NewsReaderApp/precache-manifest.1fda294d429ba076e57f4d5c42c458c4.js",
   "service-worker.js": "/NewsReaderApp/service-worker.js"
 }

@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "94c8c969c8792e44aba2",
-    "url": "/NewsReaderApp/static/js/main.94c8c969.chunk.js"
+    "revision": "e02f118007352878b868",
+    "url": "/NewsReaderApp/static/js/main.e02f1180.chunk.js"
   },
   {
     "revision": "b57ae6c4a3c69aa606a0",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/NewsReaderApp/static/js/runtime~main.cee1c5ef.js"
   },
   {
-    "revision": "c9df0a30d2c7c93039cc98c7578da034",
+    "revision": "caa23066fa5d9e48b51b242a89730513",
     "url": "/NewsReaderApp/index.html"
   }
 ];
