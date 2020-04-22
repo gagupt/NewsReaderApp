@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/NewsReaderApp/static/js/runtime~main.cee1c5ef.js"
   },
   {
-    "revision": "e547f7cc9e2aa48e56609ac2511e4247",
+    "revision": "e999884f27c882689b3098f18017ee9d",
     "url": "/NewsReaderApp/index.html"
   }
 ];
